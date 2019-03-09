@@ -1,0 +1,13 @@
+{
+  "name": "nodeflakeid",
+  "version": "1.0.0",
+  "description": "Twittter Snowflake like unique id generator plugin for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "author": "congnt24",
+  "license": "ISC",
+  "dependencies": {}
+}
